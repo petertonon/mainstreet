@@ -1,0 +1,15 @@
+{
+  "name": "mainstreet-capital",
+  "version": "1.0.0",
+  "description": "mainstreet capital project",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.9.4"
+  },
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/styles.css -w"
+  },
+  "author": "Peter",
+  "license": "ISC"
+}
